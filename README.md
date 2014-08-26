@@ -9,7 +9,7 @@ Documentation: https://github.com/Universal-Electricity/Universal-Electricity/wi
 
 #### Developers
 * Calclavia http://www.patreon.com/calclavia
-* DarkGuardsman 
+* DarkGuardsman http://www.patreon.com/darkcow 
 
 
 Support
