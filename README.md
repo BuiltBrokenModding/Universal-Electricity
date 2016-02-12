@@ -1,11 +1,8 @@
 ## Universal Electricity
 Universal Electricity is a Minecraft modding library that provides an easy, flexible energy framework and compatibility bridges between various energy systems in Minecraft.
 
-Copyright (c) 2011-2014 Calclavia
-
-Universal Electricity's website can be found at www.universalelectricity.com. All downloads of the API are there.
-
-Documentation: https://github.com/Universal-Electricity/Universal-Electricity/wiki
+Copyright (c) 2011-2014 Calclavia Studios
+Copyright (c) 2015-2016 Built Broken Studios
 
 #### Developers
 * Calclavia http://www.patreon.com/calclavia
@@ -14,12 +11,15 @@ Documentation: https://github.com/Universal-Electricity/Universal-Electricity/wi
 
 Support
 ======
-* Make sure you used the latest Versions even try dev versions. 
-* use Pastebin to make it easier and so we don't have to scroll down a giant wall of text.
+* Project is no longer supported in any conventional way. However, if you really need help feel free to contact us. As long as its about development issues rather than install issues.
 
 ### Contact
-Join *#UE* on EsperNet (irc.esper.net:5555). Remember to follow the rules and respect others as with any other channel.
+Join *#BuiltBroken* on EsperNet (irc.esper.net:5555). Remember to follow the rules and respect others as with any other channel.
 
 ### License
 Universal Electricity is licensed under the Lesser General Public License (LGPL) version 3.0. The license can be found here:
 http://www.gnu.org/copyleft/lesser.html
+
+### Contribution
+All though the project is dead we still accept contribution. So long as you sign the CLA for the project
+[![CLA assistant](https://cla-assistant.io/readme/badge/BuiltBrokenModding/Universal-Electricity)](https://cla-assistant.io/BuiltBrokenModding/Universal-Electricity)
